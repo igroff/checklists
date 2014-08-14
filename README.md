@@ -8,8 +8,8 @@ Think of a checklist as a todo list that you write once and use over and over.
 #### Data Format ( as simple as possible )
 Checklists are files containing lines of tasks to be completed (one per line).
 
-Items that are done are preceeded by 'x <date stamp> '
-Where x is a literal character 'x' and <date stamp> is the date time that the task
+Items that are done are preceeded by 'x \<date stamp\> '
+Where x is a literal character 'x' and \<date stamp\> is the date time that the task
 was completed in GMT.
 
 ```
